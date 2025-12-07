@@ -3,6 +3,6 @@ package com.example;
 public class Example2 {
 
 	public static void main(String[] args) {
-		System.out.println("dfsadasd asd");
+		System.out.println("dfsadasd asd    dsfsdfsd");
 	}
 }
